@@ -33,7 +33,7 @@ I’m a passionate **Data Engineer** with a knack for transforming data into act
 
 ---
 
-> “Turning data into decisions—one query at a time.”
+> “Turning data into decisions—one query at a time.” >
 
 ---
 
