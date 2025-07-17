@@ -32,9 +32,7 @@ I’m a passionate **Data Engineer** with a knack for transforming data into act
 - [LinkedIn](https://www.linkedin.com/in/neeleshmoravaneni)
 
 ---
-
-> “Turning data into decisions—one query at a time.” >
-
+“Turning data into decisions—one query at a time.”
 ---
 
 Thanks for stopping by! Let’s connect, collaborate, and make sense of data together.
